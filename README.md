@@ -18,7 +18,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 1 – Assembler et intégrer le poste de votre client dans son réseau local
 - **Compétences :** Installation matérielle, configuration réseau de base, intégration dans un LAN.  
-- **Livrables :** [Voir le projet](./Projet-1)
+- **Livrables :** [Voir le projet](./MD_P2_assemblez-et-integrez-le-poste-de-votre-client-dans-son-reseau-local_2023-09-01T081650.zip)
 
 ---
 
