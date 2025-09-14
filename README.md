@@ -48,7 +48,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 7 – Créer des services partagés en entreprise et automatiser des tâches
 - **Compétences :** Mise en place de serveurs partagés (fichiers, imprimantes), scripts d’automatisation.  
-- **Livrables :** [Voir le projet](./Projet-7)
+- **Livrables :** [Voir le projet](./MD_P7_creez-des-services-partages-en-entreprise-et-automatisez-des-taches-1_2024-01-09)
 
 ---
 
