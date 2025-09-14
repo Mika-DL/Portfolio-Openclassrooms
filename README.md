@@ -16,15 +16,9 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ## 📂 Projets OpenClassrooms
 
-### 🔹 Projet 1 – Assembler et intégrer le poste de votre client dans son réseau local
+### 🔹 Projet 2 – Assembler et intégrer le poste de votre client dans son réseau local
 - **Compétences :** Installation matérielle, configuration réseau de base, intégration dans un LAN.  
 - **Livrables :** [Voir le projet](./MD_P2_assemblez-et-integrez-le-poste-de-votre-client-dans-son-reseau-local_2023-09-01)
-
----
-
-### 🔹 Projet 2
-- **Compétences :** Gestion d’environnement technique (détails à préciser si besoin).  
-- **Livrables :** [Voir le projet](./Projet-2)
 
 ---
 
