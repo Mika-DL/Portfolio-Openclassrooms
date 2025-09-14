@@ -54,11 +54,10 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 8 – Mettre en œuvre vos compétences de technicien informatique
 - **Compétences :** Projet final de synthèse : intégration systèmes, réseau, support, documentation.  
-- **Livrables :** [Voir le projet](./Projet-8)
+- **Livrables :** [Voir le projet](./PMD_P8_mettez-en-oeuvre-vos-competences-de-technicien-informatique-1_2024-05-01)
 
 ---
 
 ## 📬 Me contacter
-- 📧 Email : ton.email@exemple.com  
-- 🔗 LinkedIn : [Ton profil LinkedIn]  
-- 💻 GitHub : [Ton pseudo GitHub]  
+- 📧 Email : mikado.dolne@gmail.com  
+- 🔗 LinkedIn : [www.linkedin.com/in/domi2]    
