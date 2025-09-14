@@ -42,7 +42,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 6 – Gérer un parc informatique au quotidien
 - **Compétences :** Supervision, gestion d’incidents récurrents, inventaire matériel.  
-- **Livrables :** [Voir le projet](./Projet-6)
+- **Livrables :** [Voir le projet](./MD_P6_gerez-un-parc-informatique-au-quotidien-1_2023-12-05)
 
 ---
 
