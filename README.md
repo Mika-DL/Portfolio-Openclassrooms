@@ -48,7 +48,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 ---
 
 ### 🔹 Projet 8 – Mettre en œuvre vos compétences de technicien informatique  
-- **Livrables :** [Voir le projet](./PMD_P8_mettez-en-oeuvre-vos-competences-de-technicien-informatique-1_2024-05-01)
+- **Livrables :** [Voir le projet](./MD_P8_mettez-en-oeuvre-vos-competences-de-technicien-informatique-1_2024-05-01)
 
 ---
 
