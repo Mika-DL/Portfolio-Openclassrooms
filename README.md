@@ -36,7 +36,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 5 – Déployer le parc informatique d’une startup
 - **Compétences :** Déploiement postes de travail, préparation d’images systèmes, installation logiciels.  
-- **Livrables :** [Voir le projet](./Projet-5)
+- **Livrables :** [Voir le projet](./MD_P5_deployez-le-parc-informatique-dune-start-up-1_2023-11-14)
 
 ---
 
