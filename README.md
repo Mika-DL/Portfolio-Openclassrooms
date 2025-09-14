@@ -37,7 +37,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 5 – Déployer le parc informatique d’une startup
 - **Compétences :** installation et configuration de Windows Server 2022, mise en place d’Active Directory (utilisateurs, OU, délégation), configuration WDS pour déploiement automatisé de postes Windows 10, gestion de VM sous VirtualBox, intégration des postes dans l’AD, configuration Ubuntu Desktop et connexion via SSH/Putty, accès aux partages SMB, gestion de mots de passe complexes, respect des politiques de sécurité, VNC, rédaction de procédures et documentation, suivi de projet et reporting.
-- - **Livrables :** [Voir le projet](./)
+- - **Livrables :** [Voir le projet](./MD_P5_deployez-le-parc-informatique-dune-start-up-1_2023-11-14)
 
 ---
 
