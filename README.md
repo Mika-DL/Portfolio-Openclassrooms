@@ -24,7 +24,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 
 ### 🔹 Projet 3 – Installer et configurer le réseau d’une PME
 - **Compétences :** Conception d’architecture réseau, configuration routeurs/switches, VLAN.  
-- **Livrables :** [Voir le projet](./Projet-3)
+- **Livrables :** [Voir le projet](./MD_P3_installez-et-configurez-le-reseau-dune-pme_2023-09-27)
 
 ---
 
