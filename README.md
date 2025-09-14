@@ -42,7 +42,7 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 ---
 
 ### 🔹 Projet 6 – Gérer un parc informatique au quotidien
-**Compétences :** supervision Nagios, sauvegarde avec Veeam, administration Debian et Windows 10, gestion de VM VirtualBox, administration GLPI (serveur et agents), inventaire parc IT, conventions de nommage, déploiement de postes clients, analyse d’alertes, résolution d’incidents, rédaction de procédures illustrées, bonnes pratiques de sécurité.
+- **Compétences :** supervision Nagios, sauvegarde avec Veeam, administration Debian et Windows 10, gestion de VM VirtualBox, administration GLPI (serveur et agents), inventaire parc IT, conventions de nommage, déploiement de postes clients, analyse d’alertes, résolution d’incidents, rédaction de procédures illustrées, bonnes pratiques de sécurité.
 - **Livrables :** [Voir le projet](./MD_P6_gerez-un-parc-informatique-au-quotidien-1_2023-12-05)
 
 ---
