@@ -10,8 +10,8 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 - 🎓 Formation : Technicien Systèmes & Réseaux (OpenClassrooms)  
 - 💼 Poste actuel : Technicien Support Informatique - Référent Local CTL
 - 🎯 Objectif : Évoluer vers des postes à responsabilités en systèmes & réseaux  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/domi2) | [MD_Technicien Systèmes et réseaux.pdf](./MD_Technicien Systèmes et réseaux.pdf) 
- 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/domi2)
+- 📄 [Télécharger mon CV](./CV.pdf) 
 
 ---
 
