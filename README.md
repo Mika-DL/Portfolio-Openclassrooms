@@ -36,13 +36,12 @@ Ces projets m’ont permis de développer des compétences en **réseau, systèm
 ---
 
 ### 🔹 Projet 5 – Déployer le parc informatique d’une startup
-- **Compétences :** installation et configuration d’un serveur Windows Server 2022, mise en place d’Active Directory (création d’utilisateurs et OU, délégation de contrôle), configuration du rôle WDS pour déploiement automatisé de postes Windows 10, création et gestion de VM sous VirtualBox, passage en mode audit et utilisation de Sysprep pour généralisation d’image maître, déploiement réseau et intégration automatique des postes dans l’AD, installation et configuration d’Ubuntu Desktop avec OpenSSH et connexion via Putty, accès à des partages Windows depuis Linux (SMB), gestion de mots de passe complexes et respect des politiques de sécurité, prise en main à distance via VNC, rédaction de procédures et documentation professionnelle, sensibilisation aux bonnes pratiques de sécurité, analyse des besoins client et planification des déploiements, suivi de projet et reporting.
-- **Livrables :** [Voir le projet](./MD_P5_deployez-le-parc-informatique-dune-start-up-1_2023-11-14)
+- **Compétences :** installation et configuration de Windows Server 2022, mise en place d’Active Directory (utilisateurs, OU, délégation), configuration WDS pour déploiement automatisé de postes Windows 10, gestion de VM sous VirtualBox, intégration des postes dans l’AD, configuration Ubuntu Desktop et connexion via SSH/Putty, accès aux partages SMB, gestion de mots de passe complexes, respect des politiques de sécurité, VNC, rédaction de procédures et documentation, suivi de projet et reporting.art-up-1_2023-11-14)
 
 ---
 
 ### 🔹 Projet 6 – Gérer un parc informatique au quotidien
-**Compétences :** Nagios, Veeam Backup, Debian, Windows 10, VirtualBox, GLPI 10 (serveur & agents), inventaire parc IT, conventions de nommage, déploiement postes clients, analyse d’alertes, résolution incidents, procédures illustrées, bonnes pratiques sécurité.
+**Compétences :** supervision Nagios, sauvegarde avec Veeam, administration Debian et Windows 10, gestion de VM VirtualBox, administration GLPI (serveur et agents), inventaire parc IT, conventions de nommage, déploiement de postes clients, analyse d’alertes, résolution d’incidents, rédaction de procédures illustrées, bonnes pratiques de sécurité.
 - **Livrables :** [Voir le projet](./MD_P6_gerez-un-parc-informatique-au-quotidien-1_2023-12-05)
 
 ---
